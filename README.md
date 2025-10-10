@@ -1,4 +1,4 @@
-# Reddit MCP + LangGraph React Agent - Complete Setup Guide
+# Reddit MCP + LangGraph React Agent - Setup Guide
 
 This guide provides step-by-step instructions to set up the Reddit MCP server and integrate it with a LangGraph React agent.
 
