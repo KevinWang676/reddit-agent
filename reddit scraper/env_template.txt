@@ -1,0 +1,10 @@
+# Reddit API Credentials
+# Get these from: https://www.reddit.com/prefs/apps (create a "script" app)
+CLIENT_ID=your_reddit_client_id_here
+CLIENT_SECRET=your_reddit_client_secret_here
+USER_AGENT=python:RedditPipeline:v1.0 (by /u/yourusername)
+
+# OpenAI API Key
+# Get from: https://platform.openai.com/api-keys
+OPENAI_API_KEY=sk-your-openai-api-key-here
+

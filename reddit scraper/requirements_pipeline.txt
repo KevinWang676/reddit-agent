@@ -1,0 +1,20 @@
+# Reddit Categorization Pipeline Dependencies
+
+# Reddit API
+praw>=7.7.1
+
+# OpenAI API
+openai>=1.0.0
+
+# Data processing
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+pyyaml>=6.0.0
+
+# Optional: For visualization (if using quantinsights.py)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
