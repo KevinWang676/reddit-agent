@@ -18,7 +18,7 @@ source venv/bin/activate
 
 # Install/update dependencies
 echo "📚 Installing dependencies..."
-pip install -q fastapi uvicorn pydantic
+pip install -q fastapi uvicorn pydantic praw tqdm python-dotenv openai
 
 # Check for .env file
 if [ ! -f "../.env" ]; then
