@@ -1,0 +1,46 @@
+# Environment variables
+.env
+
+# Pipeline outputs
+pipeline_output/
+backend/pipeline_output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+.vscode/
+
+# Documentation (exclude all except README.md)
+SETUP.md
+QUICKSTART.md
+FEATURES.md
+IMPROVEMENTS_SUMMARY.md
+BUGFIX_MULTI_SUBREDDIT.md
+FIX_SUMMARY.md
+TESTING_CHECKLIST.md
+INCREMENTAL_UPDATES.md
+UPDATE_FEATURE_SUMMARY.md
+SMART_UPDATE_FEATURE.md
+FINAL_UPDATE_SUMMARY.md
+UPDATE_COMPARISON.md
+UI_IMPROVEMENTS.md
+CODE_REVIEW.md
+VERIFICATION_COMPLETE.md
+FINAL_SUMMARY.md
+AUTO_REFRESH_IMPROVEMENT.md
+
+# Test files
+test-*.py
+
